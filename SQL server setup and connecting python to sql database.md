@@ -185,3 +185,9 @@
 <li>Reading the saved &lt;Filename&gt;.csv file in python.</li>
 </ul>
 <p><span style="background-color: #999999;"><span style="background-color: #ffffff;">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>&nbsp; &nbsp;pd.read_csv('&lt;Filename&gt;.csv')</span></p>
+
+
+
+<ul>
+<p align="center"><img src="https://github.com/VVRChilukoori/SQL-server-to-Python/blob/master/img/21.jpg" alt="" width="659" height="571" /></p>
+</ul>
