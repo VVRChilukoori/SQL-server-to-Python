@@ -189,5 +189,5 @@
 
 
 <ul>
-<p align="center"><img src="https://github.com/VVRChilukoori/SQL-server-to-Python/blob/master/img/21.jpg" alt="" width="659" height="571" /></p>
+<p align="center"><img src="https://github.com/VVRChilukoori/SQL-server-to-Python/blob/master/img/21.png" alt="" width="330" height="286" /></p>
 </ul>
