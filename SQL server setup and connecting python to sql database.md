@@ -1,6 +1,6 @@
 <p><strong>&nbsp;</strong><strong>Environment Setup for SQL Server 2014:</strong></p>
 <ul>
-<li>First, download the <a href="https://www.microsoft.com/en-us/download/details.aspx?id=21">Microsoft .NET Framework 3.5</a> and install it. You man need to restart the system after installing it.</li>
+<li>First, download the <a href="https://www.microsoft.com/en-us/download/details.aspx?id=21">Microsoft .NET Framework 3.5</a> and install it. You may need to restart the system after installing it.</li>
 </ul>
 
 <ul>
